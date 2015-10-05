@@ -1,0 +1,12 @@
+#job-list h1 {
+  font-size: 1.4em;
+}
+
+#job-view h1 {
+  font-size: 2em;
+}
+
+#job-view h2 {
+  font-size: 1.3em;
+  font-weight: 400;
+}
